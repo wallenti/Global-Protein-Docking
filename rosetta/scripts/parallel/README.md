@@ -167,7 +167,7 @@ Merge and dock pdbs
 
 <!-- Links -->
 
-[pdb_id_to_structure.py](./pdb_id_to_structure.py)
+[pdb_id_to_structure.py]: ./pdb_id_to_structure.py
 
 [id-mapping]: https://www.uniprot.org/id-mapping
 
@@ -175,22 +175,22 @@ Merge and dock pdbs
 
 [enviroments]: ../enviroments
 
-[python organize_pdbs_100.py](./organize_pdbs_100.py)
+[python organize_pdbs_100.py]: ./organize_pdbs_100.py
 
-[parallel_rename.py](./parallel_rename.py)
+[parallel_rename.py]: ./parallel_rename.py
 
-[parallel_chain_iso.sh](./parallel_chain_iso.sh)
+[parallel_chain_iso.sh]: ./parallel_chain_iso.sh
 
-[relax_cst.sh](../glob_dock_single_run/relax_cst.sh)
-[parallel_merge.sh](./parallel_merge.sh)
+[relax_cst.sh]: ../glob_dock_single_run/relax_cst.sh
+[parallel_merge.sh]: ./parallel_merge.sh
 
-[parallel_relax_cst.sh](./parallel_relax_cst.sh)
+[parallel_relax_cst.sh]: ./parallel_relax_cst.sh
 
-[optimize_parallel_2_fast_glob_dock_lo_ml.sh](./optimize_parallel_2_fast_glob_dock_lo_ml.sh)
+[optimize_parallel_2_fast_glob_dock_lo_ml.sh]: ./optimize_parallel_2_fast_glob_dock_lo_ml.sh
 
-[parallel_glob.flags](./parallel_glob.flags)
+[parallel_glob.flags]: ./parallel_glob.flags
 
-[extract_pdb_scores_from_scorefile.py](./extract_pdb_scores_from_scorefile.py)
+[extract_pdb_scores_from_scorefile.py]: ./extract_pdb_scores_from_scorefile.py
 
 <!-- Footnotes-->
 
