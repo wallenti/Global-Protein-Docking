@@ -1,0 +1,12 @@
+-docking:partners ABCDEF_G          # Specify the interacting chains (replace with your specific chains)
+-docking:dock_pert 3 8         # Perturbations for docking (adjust as needed)
+-docking:dock_mcm_trans_magnitude 0.1   # Magnitude of translational perturbations
+-docking:dock_mcm_rot_magnitude 5.0      # Magnitude of rotational perturbations
+-docking:spin                   # Enable spin sampling
+-docking:randomize1            # Enable random perturbations for partner 1
+-docking:randomize2            # Enable random perturbations for partner 2
+-use_input_sc                   # Use input side-chain conformations
+-scorefile MSscore.sc         # Output score file
+-out:suffix _full              # Suffix for output files
+-nstruct 1000                   # Number of structures to generate
+

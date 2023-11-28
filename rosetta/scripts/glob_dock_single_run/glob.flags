@@ -1,0 +1,12 @@
+-in:file:s /u/jawall/pymol/af_MYD88_1WH4_IRAK4DD/head_merge_iso_relaxed_af/new_relaxed_10MYDDOSOME_TERNARY_DD_COMPLEX_model_3_multimer_v3_p1_231025_905303_0001_D.pdb            # Input PDB file with the starting coordinates
+-docking:partners ABCDEF_G          # Specify the interacting chains (replace with your specific chains)
+-docking:dock_pert 3 8         # Perturbations for docking (adjust as needed)
+-docking:dock_mcm_trans_magnitude 0.1   # Magnitude of translational perturbations
+-docking:dock_mcm_rot_magnitude 5.0      # Magnitude of rotational perturbations
+-docking:spin                   # Enable spin sampling
+-docking:randomize1            # Enable random perturbations for partner 1
+-docking:randomize2            # Enable random perturbations for partner 2
+-use_input_sc                   # Use input side-chain conformations
+-scorefile new_3MOP_IRAK4_MYD88_docking.fasc         # Output score file
+-out:suffix _full              # Suffix for output files
+-nstruct 1000                   # Number of structures to generate
