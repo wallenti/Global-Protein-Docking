@@ -124,7 +124,7 @@ Merge and dock pdbs
 
 
 <!-- Links -->
-[pdb_id_to_structure.py]: ./pdb_id_to_structure.py
+[pdb_id_to_structure.py](./pdb_id_to_structure.py)
 [id-mapping]: https://www.uniprot.org/id-mapping
 [input]: ../../input
 [enviroments]: ../enviroments
