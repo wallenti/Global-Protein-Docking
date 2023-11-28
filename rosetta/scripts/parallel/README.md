@@ -1,9 +1,6 @@
 ROSETTA PARALELL GLOBAL DOCKING
 ===============================
 
-The files in this folder origin from real data analysis in
-```
-
 Goal
 ----
 
