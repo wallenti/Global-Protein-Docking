@@ -14,4 +14,5 @@ on linux:
 direct to folder you want to install the git i.e. rosetta:   cd path/to/directory
 
 initialize git:    git init 
+
 clone git:         git clone https://github.com/wallenti/Global-Protein-Docking.git
