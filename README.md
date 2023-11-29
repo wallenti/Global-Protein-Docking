@@ -2,7 +2,7 @@ Global Protein Docking In Single Or Parallel Runs
 ===============================================
 
 Goal
-______
+-----
 
 To pull exisitng protein structures of interest, prepare them for docking, dock them gloably and Plot the results.
 
