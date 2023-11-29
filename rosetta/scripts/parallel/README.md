@@ -12,7 +12,7 @@ Input
 Before you start
 ----------------
 
-1. You should download ROSETTA.
+1. You should download ROSETTA as described in the [Taylor Lab Repository].
 
 2. Copy the reppsitory into your rosetta folder
 
@@ -166,6 +166,8 @@ Merge and dock pdbs
 
 
 <!-- Links -->
+
+[Taylor Lab Repository]: https://github.com/MarcusTaylorLab/Synthetic_Myddosome_project/tree/6e95f7c35de68e380985157d5a26582d1b9047ef/rosetta_pipeline
 
 [pdb_id_to_structure.py]: ./pdb_id_to_structure.py
 
